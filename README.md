@@ -37,5 +37,10 @@ tarea2-IME-396/
 ```bash
 python3 tarea2.py
 ```
+Nota: la variable que manda qué fila se va a calcular es `identidicador`, en mi caso, es 18. 
+
+![Captura desde 2024-06-29 23-41-51](https://github.com/CrisisExistencial01/tarea2-IME-396/assets/137073940/6c7e4afd-8bf5-4d2b-ac43-78a1cf7cfb3b)
+
 Datos Calculados:
+
 ![Captura desde 2024-06-29 23-35-14](https://github.com/CrisisExistencial01/tarea2-IME-396/assets/137073940/8a4981a9-9c66-4e19-b957-3e07b09df395)
