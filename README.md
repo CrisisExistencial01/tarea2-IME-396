@@ -33,3 +33,9 @@ tarea2-IME-396/
 ├── tarea2.py
 |── Datos.xlsx
 ```
+3. ejecutar el script:
+```bash
+python3 tarea2.py
+```
+Datos Calculados:
+![Captura desde 2024-06-29 23-35-14](https://github.com/CrisisExistencial01/tarea2-IME-396/assets/137073940/8a4981a9-9c66-4e19-b957-3e07b09df395)
